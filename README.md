@@ -1,18 +1,7 @@
-### Date created
-Include the date you created this project and README file.
+@@ -1 +1,5 @@
+# GitHubProj3
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+# GitHubProj3
 
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### specs
-i specialized in robotics
-
+make changes
